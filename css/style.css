@@ -1,0 +1,16 @@
+/* Example styles */
+.proglancer-quiz {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.question {
+    margin-bottom: 20px;
+}
+#quiz-results {
+    margin-top: 20px;
+    font-weight: bold;
+}
