@@ -9,5 +9,5 @@
   <li>Customizable Styles : Includes a CSS file (style.css) for customizing the appearance of the quiz.</li>
   <li>Responsive Design : Ensures quizzes look great on all devices.</li>
 </ul>
-![image](https://github.com/user-attachments/assets/2024e1fd-38d3-4652-b4bb-19a954720296)
 
+<img src="https://github.com/user-attachments/assets/2024e1fd-38d3-4652-b4bb-19a954720296">
