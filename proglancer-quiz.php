@@ -3,7 +3,7 @@
  * Plugin Name: Proglancer Quiz
  * Description: A simple quiz plugin with CRUD operations.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Proglancer
  */
 
 // Prevent direct access
